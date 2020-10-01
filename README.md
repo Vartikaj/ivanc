@@ -1,4 +1,4 @@
-# ivanc
+# coder and blogger
 
 This repository contains two applications: 
 
